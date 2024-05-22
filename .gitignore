@@ -1,0 +1,45 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/
+
+# alembic
+alembic/versions/
+
+# OS
+.DS_Store
