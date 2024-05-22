@@ -1,2 +1,8 @@
 pytest
 requests
+SQLAlchemy
+alembic
+unittest2
+mock-alchemy
+pytest
+freezegun
